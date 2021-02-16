@@ -1,2 +1,6 @@
 print("Hello")
 print("rrRRrrrrrRRr")
+print("rich")
+print("tinnn")
+print("tiger")
+
